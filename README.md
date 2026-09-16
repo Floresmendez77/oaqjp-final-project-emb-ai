@@ -18,17 +18,17 @@ This project implements an AI-based web application that detects emotions (anger
 
 ## Project Structure
 
-\`\`\`
+```
 oaqjp-final-project-emb-ai/
-├── EmotionDetection/
-│   ├── __init__.py
-│   └── emotion_detection.py
-├── static/
-├── templates/
-├── server.py
-├── test_emotion_detection.py
-└── README.md
-\`\`\`
+    EmotionDetection/
+        __init__.py
+        emotion_detection.py
+    static/
+    templates/
+    server.py
+    test_emotion_detection.py
+    README.md
+```
 
 ## How to Run
 
